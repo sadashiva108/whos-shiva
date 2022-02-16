@@ -111,23 +111,7 @@
 				// Loop the presentation
 				loop: true,
 				// Learn about plugins: https://revealjs.com/plugins/
-				multiplex: {
-					// Example values. To generate your own, see the socket.io server instructions.
-					//secret: '16449630977946132746', 
-					secret: null,
-					id: '5eaeed754655491d', // Obtained from socket.io server
-					url: 'https://reveal-multiplex.glitch.me/' // Location of socket.io server
-				},
-				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
-				dependencies: [
-    			{ src: 'https://reveal-multiplex.glitch.me/socket.io/socket.io.js', async: true },
-    			//{ src: 'https://reveal-multiplex.glitch.me/master.js', async: true },
-				{ src: 'https://reveal-multiplex.glitch.me/client.js', async: true },
-
-   				//  // and if you want speaker notes
-    			// { src: 'https://unpkg.com/reveal-notes-server/client.js', async: true }
-  				// ]
 			});
 		</script>
 		<script src="./node_modules/socket.io/lib/socket.js"></script>
