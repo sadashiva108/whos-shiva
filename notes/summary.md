@@ -1,10 +1,13 @@
 Note:
 
-We discussed Shiva, Shaivism, and Shaiva Tantra.
-Then we explored evidence of Shaivism in Judaism as well as the Olmec Civilization.
-There is much more to explore that we didn't get into today,
-in particular evidence of Shaivism found in Jewish, Olmec, and Mayan etymology as well as additional similariies in their metaphysics. 
+We have learned that Shiva is a god, actually the god of gods and goddessess.
 
-We also didn't trace the migratory patterns of the early Jews nor the Olmecs and Mayans.
+Shiva was a person in the sense that he took on a human body and operated as a great teacher to lead all to liberation regardless
+of cast, sex, or race. Shiva's teachings were for anyone and transcended such limiting dualities.
 
-Hopefully I made you all hungry for more! 
+Finally Shiva is a real ontological entity in evolutionary cosmology. Shiva is pure consciousness yet inseperable from his beloved shakti 
+the energy that brings forth an infinitude of manifestations.
+
+Shiva represents an ideology and philosophy as well.  We shall take a look into what Shiva's philosophy is all about in a future discourse.
+
+Om Namah Shivaya!!
