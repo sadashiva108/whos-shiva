@@ -91,8 +91,8 @@
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
 				multiplex: {
 					// Example values. To generate your own, see the socket.io server instructions.
-					secret: null,
-					//secret: '16450356477719784970', // Obtained from the socket.io server. Gives this (the master) control of the presentation
+					//secret: null,
+					secret: '16450356477719784970', // Obtained from the socket.io server. Gives this (the master) control of the presentation
 					id: 'eeef9de411f8c129', // Obtained from socket.io server
 					url: 'https://reveal-multiplex.glitch.me/' // Location of socket.io server
 				},
@@ -100,8 +100,8 @@
 				// Don't forget to add the dependencies
 				dependencies: [
 					{ src: 'https://reveal-multiplex.glitch.me/socket.io/socket.io.js', async: true },
-					{ src: 'https://reveal-multiplex.glitch.me/client.js', async: true },
-					//{ src: 'https://reveal-multiplex.glitch.me/master.js', async: true },
+					//{ src: 'https://reveal-multiplex.glitch.me/client.js', async: true },
+					{ src: 'https://reveal-multiplex.glitch.me/master.js', async: true },
 
 					// and if you want speaker notes
 					{ src: 'https://unpkg.com/reveal-notes-server/client.js', async: true }
